@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{498BE213-9E6F-4DA4-9EFF-D8F3F46F9126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498BE213-9E6F-4DA4-9EFF-D8F3F46F9126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498BE213-9E6F-4DA4-9EFF-D8F3F46F9126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498BE213-9E6F-4DA4-9EFF-D8F3F46F9126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498BE213-9E6F-4DA4-9EFF-D8F3F46F9126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
