@@ -3,6 +3,8 @@ Handy Address Book
 
 A handy address book written in C# (.NET Fx 2.0) and an access database as its storage to store phone numbers which fully supports SCRUD operations.
 
+Later versions support encryption through AES (a.k.a Rijndael) algorithm.
+
 
 ## License
 
